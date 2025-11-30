@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+sqlalchemy
+psycopg2-binary     # if using PostgreSQL
+pymysql             # if using MySQL
+pyodbc              # for MSSQL
+jupyter
+notebook
+scikit-learn
+python-dotenv
+requests
+flask
+django
